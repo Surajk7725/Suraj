@@ -1,0 +1,25 @@
+const movies=
+[
+    {
+        "id":1,
+        "name":"Sitha",
+        "genre":"Action",
+        "year":2020,
+        "rating":9.2
+    },
+    {
+        "id":2,
+        "name":"Ram",
+        "genre":"Crime",
+        "year":2021,
+        "rating":9.4
+    },
+    {
+        "id":3,
+        "name":"Lakshman",
+        "genre":"Comedy",
+        "year":2022,
+        "rating":9.3
+    }
+];
+module.exports=movies;
